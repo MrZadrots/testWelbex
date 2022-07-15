@@ -1,0 +1,4 @@
+{
+    "PORT":5000,
+    "dbUri":"postgres://postgres:EGORletov2312@localhost:5432/dbTable"
+}
